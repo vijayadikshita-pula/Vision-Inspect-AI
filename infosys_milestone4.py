@@ -112,7 +112,7 @@ from sqlalchemy.orm import sessionmaker
 import hashlib
 
 print("All dependencies successfully imported.")
-!pip install -q reportlab pandas matplotlib jinja2 opencv-python pillow gradio
+#!pip install -q reportlab pandas matplotlib jinja2 opencv-python pillow gradio
 
 import os
 import time
