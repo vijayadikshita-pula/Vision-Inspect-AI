@@ -1,0 +1,8 @@
+reportlab
+pandas
+matplotlib
+jinja2
+opencv-python-headless
+pillow
+gradio
+streamlit
