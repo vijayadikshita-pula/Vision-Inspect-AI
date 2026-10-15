@@ -1,9 +1,8 @@
-sqlalchemy
-reportlab
+gradio
 pandas
 matplotlib
 jinja2
 opencv-python-headless
 pillow
-gradio
-streamlit
+sqlalchemy
+reportlab
