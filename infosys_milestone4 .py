@@ -236,7 +236,7 @@ def seed_users():
 
 seed_users()
 
-pip install reportlab
+#pip install reportlab
 
 from reportlab.lib.pagesizes import letter
 from reportlab.lib import colors
